@@ -1,7 +1,7 @@
-### Hi 👋
+## Hi 👋
 
-##### My name is Emily
-###### programmer. artist. gamer. kiki lover :tiger:.
+#### My name is Emily
+##### programmer. artist. gamer. kiki lover :tiger:.
 
 - 🔭 I’m a senior in Computer Science @ Rhodes College 
 - ✨ I’m currently working on a VR research project 
