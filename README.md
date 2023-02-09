@@ -5,7 +5,7 @@
 
 - 🔭 I’m a senior in Computer Science @ Rhodes College 
 - ✨ I’m currently working on a VR research project 
-- 👯 Looking to collaborate on open-source during _HACKTOBERFEST_
+- 👯 Looking to collaborate on open-source
 - 🌱 Reach me @ emg.clifton@gmail.com or clieg-23@rhodes.edu
 
 <!--
