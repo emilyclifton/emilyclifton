@@ -3,8 +3,8 @@
 #### My name is Emily
 ##### programmer. artist. gamer. kiki lover :tiger:.
 
-- 🔭 I’m a senior in Computer Science @ Rhodes College 
-- ✨ I’m currently working on a VR research project 
+- 🔭 I’m a recent Computer Science Graduate
+- ✨ I’m currently working on expanding my frontend portfolio
 - 👯 Looking to collaborate on open-source
 - 🌱 Reach me @ emg.clifton@gmail.com
 
