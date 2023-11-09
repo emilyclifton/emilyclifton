@@ -6,7 +6,7 @@
 - 🔭 I’m a senior in Computer Science @ Rhodes College 
 - ✨ I’m currently working on a VR research project 
 - 👯 Looking to collaborate on open-source
-- 🌱 Reach me @ emg.clifton@gmail.com or clieg-23@rhodes.edu
+- 🌱 Reach me @ emg.clifton@gmail.com
 
 <!--
 **emilyclifton/emilyclifton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
