@@ -3,7 +3,7 @@
 #### My name is Emily
 ##### programmer. artist. gamer. kiki lover :tiger:.
 
-- 🔭 I’m a recent Computer Science Graduate
+- 🔭 I’m a Computer Science Masters Student and Computer Science Tutor
 - ✨ I’m currently working on expanding my frontend portfolio
 - 👯 Looking to collaborate on open-source
 - 🌱 Reach me @ emg.clifton@gmail.com
